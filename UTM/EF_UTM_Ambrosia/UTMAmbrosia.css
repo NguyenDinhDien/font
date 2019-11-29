@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'UTMAmbrosia';
+    src: url('fonts/UTMAmbrosia.eot');
+    src: url('fonts/UTMAmbrosia.eot') format('embedded-opentype'),
+         url('fonts/UTMAmbrosia.woff2') format('woff2'),
+         url('fonts/UTMAmbrosia.woff') format('woff'),
+         url('fonts/UTMAmbrosia.ttf') format('truetype'),
+         url('fonts/UTMAmbrosia.svg#UTMAmbrosia') format('svg');
+}

@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'SFUEurostileBoldOblique';
+    src: url('fonts/SFUEurostileBoldOblique.eot');
+    src: url('fonts/SFUEurostileBoldOblique.eot') format('embedded-opentype'),
+         url('fonts/SFUEurostileBoldOblique.woff2') format('woff2'),
+         url('fonts/SFUEurostileBoldOblique.woff') format('woff'),
+         url('fonts/SFUEurostileBoldOblique.ttf') format('truetype'),
+         url('fonts/SFUEurostileBoldOblique.svg#SFUEurostileBoldOblique') format('svg');
+}

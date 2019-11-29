@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'MuliBlack';
+    src: url('fonts/MuliBlack.eot');
+    src: url('fonts/MuliBlack.eot') format('embedded-opentype'),
+         url('fonts/MuliBlack.woff2') format('woff2'),
+         url('fonts/MuliBlack.woff') format('woff'),
+         url('fonts/MuliBlack.ttf') format('truetype'),
+         url('fonts/MuliBlack.svg#MuliBlack') format('svg');
+}

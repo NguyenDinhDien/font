@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'UTMAmericanaEB';
+    src: url('fonts/UTMAmericanaEB.eot');
+    src: url('fonts/UTMAmericanaEB.eot?#iefix') format('embedded-opentype'),
+        url('fonts/UTMAmericanaEB.woff2') format('woff2'),
+        url('fonts/UTMAmericanaEB.woff') format('woff'),
+        url('fonts/UTMAmericanaEB.ttf') format('truetype'),
+        url('fonts/UTMAmericanaEB.svg#UTMAmericanaEB') format('svg');
+}

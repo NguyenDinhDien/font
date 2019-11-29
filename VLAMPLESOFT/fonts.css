@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'VLAMPLESOFT';
+    src: url('fonts/VLAMPLESOFT.eot');
+    src: url('fonts/VLAMPLESOFT.woff') format('woff'), 
+        url('fonts/VLAMPLESOFT.ttf') format('truetype'), 
+        url('fonts/VLAMPLESOFT.svg') format('svg');
+}

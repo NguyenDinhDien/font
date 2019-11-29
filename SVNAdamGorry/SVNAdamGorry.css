@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'SVNAdamGorry';
+    src: url('fonts/SVNAdamGorry.eot');
+    src: url('fonts/SVNAdamGorry.eot') format('embedded-opentype'),
+         url('fonts/SVNAdamGorry.woff2') format('woff2'),
+         url('fonts/SVNAdamGorry.woff') format('woff'),
+         url('fonts/SVNAdamGorry.ttf') format('truetype'),
+         url('fonts/SVNAdamGorry.svg#SVNAdamGorry') format('svg');
+}

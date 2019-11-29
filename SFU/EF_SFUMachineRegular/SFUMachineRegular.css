@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'SFUMachineRegular';
+    src: url('fonts/SFUMachineRegular.eot');
+    src: url('fonts/SFUMachineRegular.eot') format('embedded-opentype'),
+         url('fonts/SFUMachineRegular.woff2') format('woff2'),
+         url('fonts/SFUMachineRegular.woff') format('woff'),
+         url('fonts/SFUMachineRegular.ttf') format('truetype'),
+         url('fonts/SFUMachineRegular.svg#SFUMachineRegular') format('svg');
+}

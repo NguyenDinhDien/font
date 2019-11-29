@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'BeVietnam';
+    src: url('fonts/BeVietnam-Regular.eot');
+    src: url('fonts/BeVietnam-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BeVietnam-Regular.woff2') format('woff2'),
+        url('fonts/BeVietnam-Regular.woff') format('woff'),
+        url('fonts/BeVietnam-Regular.ttf') format('truetype'),
+        url('fonts/BeVietnam-Regular.svg#BeVietnam-Regular') format('svg');
+}

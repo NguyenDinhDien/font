@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'UTMFlamenco';
+    src: url('fonts/UTMFlamenco.eot');
+    src: url('fonts/UTMFlamenco.eot') format('embedded-opentype'),
+         url('fonts/UTMFlamenco.woff2') format('woff2'),
+         url('fonts/UTMFlamenco.woff') format('woff'),
+         url('fonts/UTMFlamenco.ttf') format('truetype'),
+         url('fonts/UTMFlamenco.svg#UTMFlamenco') format('svg');
+}

@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'SFUDinLight';
+    src: url('fonts/SFUDinLight.eot');
+    src: url('fonts/SFUDinLight.eot') format('embedded-opentype'),
+         url('fonts/SFUDinLight.woff2') format('woff2'),
+         url('fonts/SFUDinLight.woff') format('woff'),
+         url('fonts/SFUDinLight.ttf') format('truetype'),
+         url('fonts/SFUDinLight.svg#SFUDinLight') format('svg');
+}

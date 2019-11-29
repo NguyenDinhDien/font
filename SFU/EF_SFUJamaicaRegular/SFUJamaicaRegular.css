@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'SFUJamaicaRegular';
+    src: url('fonts/SFUJamaicaRegular.eot');
+    src: url('fonts/SFUJamaicaRegular.eot') format('embedded-opentype'),
+         url('fonts/SFUJamaicaRegular.woff2') format('woff2'),
+         url('fonts/SFUJamaicaRegular.woff') format('woff'),
+         url('fonts/SFUJamaicaRegular.ttf') format('truetype'),
+         url('fonts/SFUJamaicaRegular.svg#SFUJamaicaRegular') format('svg');
+}

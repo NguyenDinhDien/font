@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'UTMSwashes';
+    src: url('fonts/UTMSwashes.eot');
+    src: url('fonts/UTMSwashes.eot') format('embedded-opentype'),
+         url('fonts/UTMSwashes.woff2') format('woff2'),
+         url('fonts/UTMSwashes.woff') format('woff'),
+         url('fonts/UTMSwashes.ttf') format('truetype'),
+         url('fonts/UTMSwashes.svg#UTMSwashes') format('svg');
+}

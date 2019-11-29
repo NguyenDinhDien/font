@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'UTMMagnesium';
+    src: url('fonts/UTMMagnesium.eot');
+    src: url('fonts/UTMMagnesium.eot') format('embedded-opentype'),
+         url('fonts/UTMMagnesium.woff2') format('woff2'),
+         url('fonts/UTMMagnesium.woff') format('woff'),
+         url('fonts/UTMMagnesium.ttf') format('truetype'),
+         url('fonts/UTMMagnesium.svg#UTMMagnesium') format('svg');
+}

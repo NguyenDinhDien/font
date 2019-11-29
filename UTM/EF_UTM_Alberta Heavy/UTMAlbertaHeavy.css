@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'UTMAlbertaHeavy';
+    src: url('fonts/UTMAlbertaHeavy.eot');
+    src: url('fonts/UTMAlbertaHeavy.eot') format('embedded-opentype'),
+         url('fonts/UTMAlbertaHeavy.woff2') format('woff2'),
+         url('fonts/UTMAlbertaHeavy.woff') format('woff'),
+         url('fonts/UTMAlbertaHeavy.ttf') format('truetype'),
+         url('fonts/UTMAlbertaHeavy.svg#UTMAlbertaHeavy') format('svg');
+}

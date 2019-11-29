@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'SFUHelveticaLight';
+    src: url('fonts/SFUHelveticaLight.eot');
+    src: url('fonts/SFUHelveticaLight.eot') format('embedded-opentype'),
+         url('fonts/SFUHelveticaLight.woff2') format('woff2'),
+         url('fonts/SFUHelveticaLight.woff') format('woff'),
+         url('fonts/SFUHelveticaLight.ttf') format('truetype'),
+         url('fonts/SFUHelveticaLight.svg#SFUHelveticaLight') format('svg');
+}

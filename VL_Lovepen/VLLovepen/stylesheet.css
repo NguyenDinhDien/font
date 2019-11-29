@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'VLLovepen';
+    src: url('fonts/VLLovepen.eot');
+    src: url('fonts/VLLovepen.eot?#iefix') format('embedded-opentype'),
+        url('fonts/VLLovepen.woff2') format('woff2'),
+        url('fonts/VLLovepen.woff') format('woff'),
+        url('fonts/VLLovepen.ttf') format('truetype'),
+        url('fonts/VLLovepen.svg#VLLovepen') format('svg');
+}

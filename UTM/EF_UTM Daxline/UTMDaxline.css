@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'UTMDaxline';
+    src: url('fonts/UTMDaxline.eot');
+    src: url('fonts/UTMDaxline.eot') format('embedded-opentype'),
+         url('fonts/UTMDaxline.woff2') format('woff2'),
+         url('fonts/UTMDaxline.woff') format('woff'),
+         url('fonts/UTMDaxline.ttf') format('truetype'),
+         url('fonts/UTMDaxline.svg#UTMDaxline') format('svg');
+}

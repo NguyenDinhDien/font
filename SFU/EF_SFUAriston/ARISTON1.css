@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'ARISTON1';
+    src: url('fonts/ARISTON1.eot');
+    src: url('fonts/ARISTON1.eot') format('embedded-opentype'),
+         url('fonts/ARISTON1.woff2') format('woff2'),
+         url('fonts/ARISTON1.woff') format('woff'),
+         url('fonts/ARISTON1.ttf') format('truetype'),
+         url('fonts/ARISTON1.svg#ARISTON1') format('svg');
+}

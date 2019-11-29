@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'UTMKhuccamta';
+    src: url('fonts/UTMKhuccamta.eot');
+    src: url('fonts/UTMKhuccamta.eot') format('embedded-opentype'),
+         url('fonts/UTMKhuccamta.woff2') format('woff2'),
+         url('fonts/UTMKhuccamta.woff') format('woff'),
+         url('fonts/UTMKhuccamta.ttf') format('truetype'),
+         url('fonts/UTMKhuccamta.svg#UTMKhuccamta') format('svg');
+}

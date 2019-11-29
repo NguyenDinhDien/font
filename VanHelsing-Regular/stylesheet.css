@@ -1,0 +1,10 @@
+@font-face {
+    font-display:block;
+    font-family: 'VanHelsing';
+    src: url('fonts/VanHelsing-Regular.eot');
+    src: url('fonts/VanHelsing-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/VanHelsing-Regular.woff2') format('woff2'),
+        url('fonts/VanHelsing-Regular.woff') format('woff'),
+        url('fonts/VanHelsing-Regular.ttf') format('truetype'),
+        url('fonts/VanHelsing-Regular.svg#VanHelsing-Regular') format('svg');
+}

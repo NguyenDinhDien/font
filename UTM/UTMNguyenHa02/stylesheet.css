@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'UTMNguyenHa-02';
+    src: url('fonts/UTMNguyenHa02.eot');
+    src: url('fonts/UTMNguyenHa02.eot?#iefix') format('embedded-opentype'),
+        url('fonts/UTMNguyenHa02.woff2') format('woff2'),
+        url('fonts/UTMNguyenHa02.woff') format('woff'),
+        url('fonts/UTMNguyenHa02.ttf') format('truetype'),
+        url('fonts/UTMNguyenHa02.svg#UTMNguyenHa02') format('svg');
+}

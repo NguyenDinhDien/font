@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'UTMCabaret';
+    src: url('fonts/UTMCabaret.eot');
+    src: url('fonts/UTMCabaret.eot?#iefix') format('embedded-opentype'),
+        url('fonts/UTMCabaret.woff2') format('woff2'),
+        url('fonts/UTMCabaret.woff') format('woff'),
+        url('fonts/UTMCabaret.ttf') format('truetype'),
+        url('fonts/UTMCabaret.svg#UTMCabaret') format('svg');
+}

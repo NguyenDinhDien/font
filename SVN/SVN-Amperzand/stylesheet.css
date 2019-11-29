@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'SVN-Amperzand';
+    src: url('fonts/SVN-Amperzand.eot');
+    src: url('fonts/SVN-Amperzand.eot?#iefix') format('embedded-opentype'),
+        url('fonts/SVN-Amperzand.woff2') format('woff2'),
+        url('fonts/SVN-Amperzand.woff') format('woff'),
+        url('fonts/SVN-Amperzand.ttf') format('truetype'),
+        url('fonts/SVN-Amperzand.svg#SVN-Amperzand') format('svg');
+}

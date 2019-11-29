@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'UTMSilkScript';
+    src: url('fonts/UTMSilkScript.eot');
+    src: url('fonts/UTMSilkScript.eot') format('embedded-opentype'),
+         url('fonts/UTMSilkScript.woff2') format('woff2'),
+         url('fonts/UTMSilkScript.woff') format('woff'),
+         url('fonts/UTMSilkScript.ttf') format('truetype'),
+         url('fonts/UTMSilkScript.svg#UTMSilkScript') format('svg');
+}

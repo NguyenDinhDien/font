@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'UTMDuepuntozero';
+    src: url('fonts/UTMDuepuntozero.eot');
+    src: url('fonts/UTMDuepuntozero.eot') format('embedded-opentype'),
+         url('fonts/UTMDuepuntozero.woff2') format('woff2'),
+         url('fonts/UTMDuepuntozero.woff') format('woff'),
+         url('fonts/UTMDuepuntozero.ttf') format('truetype'),
+         url('fonts/UTMDuepuntozero.svg#UTMDuepuntozero') format('svg');
+}

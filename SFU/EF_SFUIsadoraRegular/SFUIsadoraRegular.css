@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'SFUIsadoraRegular';
+    src: url('fonts/SFUIsadoraRegular.eot');
+    src: url('fonts/SFUIsadoraRegular.eot') format('embedded-opentype'),
+         url('fonts/SFUIsadoraRegular.woff2') format('woff2'),
+         url('fonts/SFUIsadoraRegular.woff') format('woff'),
+         url('fonts/SFUIsadoraRegular.ttf') format('truetype'),
+         url('fonts/SFUIsadoraRegular.svg#SFUIsadoraRegular') format('svg');
+}

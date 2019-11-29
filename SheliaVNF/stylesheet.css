@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'SheliaVNF';
+    src: url('fonts/SheliaVNF.eot');
+    src: url('fonts/SheliaVNF.eot?#iefix') format('embedded-opentype'),
+         url('fonts/SheliaVNF.woff2') format('woff2'),
+         url('fonts/SheliaVNF.woff') format('woff'),
+         url('fonts/SheliaVNF.ttf') format('truetype'),
+         url('fonts/SheliaVNF.svg#SheliaVNF') format('svg');
+}

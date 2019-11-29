@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'UTMBienvenue';
+    src: url('fonts/UTMBienvenue.eot');
+    src: url('fonts/UTMBienvenue.eot') format('embedded-opentype'),
+         url('fonts/UTMBienvenue.woff2') format('woff2'),
+         url('fonts/UTMBienvenue.woff') format('woff'),
+         url('fonts/UTMBienvenue.ttf') format('truetype'),
+         url('fonts/UTMBienvenue.svg#UTMBienvenue') format('svg');
+}

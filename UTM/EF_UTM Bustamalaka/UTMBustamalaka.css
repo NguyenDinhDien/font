@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'UTMBustamalaka';
+    src: url('fonts/UTMBustamalaka.eot');
+    src: url('fonts/UTMBustamalaka.eot') format('embedded-opentype'),
+         url('fonts/UTMBustamalaka.woff2') format('woff2'),
+         url('fonts/UTMBustamalaka.woff') format('woff'),
+         url('fonts/UTMBustamalaka.ttf') format('truetype'),
+         url('fonts/UTMBustamalaka.svg#UTMBustamalaka') format('svg');
+}

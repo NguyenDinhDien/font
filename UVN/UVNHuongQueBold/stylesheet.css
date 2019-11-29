@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'UVN Huong Que';
+    src: url('UVNHuongQueBold.eot');
+    src: url('UVNHuongQueBold.eot?#iefix') format('embedded-opentype'),
+        url('UVNHuongQueBold.woff2') format('woff2'),
+        url('UVNHuongQueBold.woff') format('woff'),
+        url('UVNHuongQueBold.ttf') format('truetype'),
+        url('UVNHuongQueBold.svg#UVNHuongQueBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+

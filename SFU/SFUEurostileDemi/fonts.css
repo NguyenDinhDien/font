@@ -1,0 +1,11 @@
+﻿@font-face {
+    font-family: 'SFUEurostileDemi';
+    src: url('fonts/SFUEurostileDemi.eot');
+    src: url('fonts/SFUEurostileDemi.woff') format('woff'), 
+    url('fonts/SFUEurostileDemi.ttf') format('truetype'), 
+    url('fonts/SFUEurostileDemi.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+

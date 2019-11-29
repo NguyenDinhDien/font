@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'UTMWeddingK_T';
+    src: url('fonts/UTMWeddingK_T.eot');
+    src: url('fonts/UTMWeddingK_T.eot') format('embedded-opentype'),
+         url('fonts/UTMWeddingK_T.woff2') format('woff2'),
+         url('fonts/UTMWeddingK_T.woff') format('woff'),
+         url('fonts/UTMWeddingK_T.ttf') format('truetype'),
+         url('fonts/UTMWeddingK_T.svg#UTMWeddingK_T') format('svg');
+}

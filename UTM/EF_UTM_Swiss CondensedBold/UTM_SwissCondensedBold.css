@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'UTM_SwissCondensedBold';
+    src: url('fonts/UTM_SwissCondensedBold.eot');
+    src: url('fonts/UTM_SwissCondensedBold.eot') format('embedded-opentype'),
+         url('fonts/UTM_SwissCondensedBold.woff2') format('woff2'),
+         url('fonts/UTM_SwissCondensedBold.woff') format('woff'),
+         url('fonts/UTM_SwissCondensedBold.ttf') format('truetype'),
+         url('fonts/UTM_SwissCondensedBold.svg#UTM_SwissCondensedBold') format('svg');
+}

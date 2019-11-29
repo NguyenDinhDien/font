@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'SFUHelveticaBold';
+    src: url('fonts/SFUHelveticaBold.eot');
+    src: url('fonts/SFUHelveticaBold.eot') format('embedded-opentype'),
+         url('fonts/SFUHelveticaBold.woff2') format('woff2'),
+         url('fonts/SFUHelveticaBold.woff') format('woff'),
+         url('fonts/SFUHelveticaBold.ttf') format('truetype'),
+         url('fonts/SFUHelveticaBold.svg#SFUHelveticaBold') format('svg');
+}

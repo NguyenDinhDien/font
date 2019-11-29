@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'MuliBold';
+    src: url('fonts/MuliBold.eot');
+    src: url('fonts/MuliBold.eot') format('embedded-opentype'),
+         url('fonts/MuliBold.woff2') format('woff2'),
+         url('fonts/MuliBold.woff') format('woff'),
+         url('fonts/MuliBold.ttf') format('truetype'),
+         url('fonts/MuliBold.svg#MuliBold') format('svg');
+}

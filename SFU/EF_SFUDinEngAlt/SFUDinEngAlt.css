@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'SFUDinEngAlt';
+    src: url('fonts/SFUDinEngAlt.eot');
+    src: url('fonts/SFUDinEngAlt.eot') format('embedded-opentype'),
+         url('fonts/SFUDinEngAlt.woff2') format('woff2'),
+         url('fonts/SFUDinEngAlt.woff') format('woff'),
+         url('fonts/SFUDinEngAlt.ttf') format('truetype'),
+         url('fonts/SFUDinEngAlt.svg#SFUDinEngAlt') format('svg');
+}

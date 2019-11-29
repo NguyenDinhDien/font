@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'UTMAurora';
+    src: url('fonts/UTMAurora.eot');
+    src: url('fonts/UTMAurora.eot') format('embedded-opentype'),
+         url('fonts/UTMAurora.woff2') format('woff2'),
+         url('fonts/UTMAurora.woff') format('woff'),
+         url('fonts/UTMAurora.ttf') format('truetype'),
+         url('fotns/UTMAurora.svg#UTMAurora') format('svg');
+}

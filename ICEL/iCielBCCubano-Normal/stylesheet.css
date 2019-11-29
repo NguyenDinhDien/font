@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'iCielBCCubanoNormal';
+    src: url('fonts/iCielBCCubano-Normal.eot');
+    src: url('fonts/iCielBCCubano-Normal.eot?#iefix') format('embedded-opentype'),
+        url('fonts/iCielBCCubano-Normal.woff2') format('woff2'),
+        url('fonts/iCielBCCubano-Normal.woff') format('woff'),
+        url('fonts/iCielBCCubano-Normal.ttf') format('truetype'),
+        url('fonts/iCielBCCubano-Normal.svg#iCielBCCubano-Normal') format('svg');
+}

@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'SFUFranklinGothicBook';
+    src: url('fonts/SFUFranklinGothicBook.eot');
+    src: url('fonts/SFUFranklinGothicBook.eot') format('embedded-opentype'),
+         url('fonts/SFUFranklinGothicBook.woff2') format('woff2'),
+         url('fonts/SFUFranklinGothicBook.woff') format('woff'),
+         url('fonts/SFUFranklinGothicBook.ttf') format('truetype'),
+         url('fonts/SFUFranklinGothicBook.svg#SFUFranklinGothicBook') format('svg');
+}

@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'UTMTalling';
+    src: url('fonts/UTMTalling.eot');
+    src: url('fonts/UTMTalling.eot') format('embedded-opentype'),
+         url('fonts/UTMTalling.woff2') format('woff2'),
+         url('fonts/UTMTalling.woff') format('woff'),
+         url('fonts/UTMTalling.ttf') format('truetype'),
+         url('fonts/UTMTalling.svg#UTMTalling') format('svg');
+}

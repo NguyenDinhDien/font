@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'UTMMicra';
+    src: url('fonts/UTMMicra.eot');
+    src: url('fonts/UTMMicra.eot') format('embedded-opentype'),
+         url('fonts/UTMMicra.woff2') format('woff2'),
+         url('fonts/UTMMicra.woff') format('woff'),
+         url('fonts/UTMMicra.ttf') format('truetype'),
+         url('fonts/UTMMicra.svg#UTMMicra') format('svg');
+}

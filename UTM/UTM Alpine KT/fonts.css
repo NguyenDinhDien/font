@@ -1,0 +1,7 @@
+﻿@font-face {
+    font-family: 'UTMAlpineKT';
+    src: url('fonts/UTM Alpine KT.eot');
+    src: url('fonts/UTM Alpine KT.woff') format('woff'), 
+    url('fonts/UTM Alpine KT.ttf') format('truetype'), 
+    url('fonts/UTM Alpine KT.svg') format('svg');
+}

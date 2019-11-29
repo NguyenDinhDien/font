@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'SFUFuturaExtraBoldOblique';
+    src: url('fonts/SFUFuturaExtraBoldOblique.eot');
+    src: url('fonts/SFUFuturaExtraBoldOblique.eot?#iefix') format('embedded-opentype'),
+        url('fonts/SFUFuturaExtraBoldOblique.woff2') format('woff2'),
+        url('fonts/SFUFuturaExtraBoldOblique.woff') format('woff'),
+        url('fonts/SFUFuturaExtraBoldOblique.ttf') format('truetype'),
+        url('fonts/SFUFuturaExtraBoldOblique.svg#SFUFuturaExtraBoldOblique') format('svg');
+}

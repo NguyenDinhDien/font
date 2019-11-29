@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'SFUGoudyMedium';
+    src: url('fonts/SFUGoudyMedium.eot');
+    src: url('fonts/SFUGoudyMedium.eot') format('embedded-opentype'),
+         url('fonts/SFUGoudyMedium.woff2') format('woff2'),
+         url('fonts/SFUGoudyMedium.woff') format('woff'),
+         url('fonts/SFUGoudyMedium.ttf') format('truetype'),
+         url('fonts/SFUGoudyMedium.svg#SFUGoudyMedium') format('svg');
+}

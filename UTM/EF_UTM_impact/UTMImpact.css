@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'UTMImpact';
+    src: url('fonts/UTMImpact.eot');
+    src: url('fonts/UTMImpact.eot') format('embedded-opentype'),
+         url('fonts/UTMImpact.woff2') format('woff2'),
+         url('fonts/UTMImpact.woff') format('woff'),
+         url('fonts/UTMImpact.ttf') format('truetype'),
+         url('fonts/UTMImpact.svg#UTMImpact') format('svg');
+}

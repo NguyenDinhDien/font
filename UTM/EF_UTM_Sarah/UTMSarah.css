@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'UTMSarah';
+    src: url('fonts/UTMSarah.eot');
+    src: url('fonts/UTMSarah.eot') format('embedded-opentype'),
+         url('fonts/UTMSarah.woff2') format('woff2'),
+         url('fonts/UTMSarah.woff') format('woff'),
+         url('fonts/UTMSarah.ttf') format('truetype'),
+         url('fonts/UTMSarah.svg#UTMSarah') format('svg');
+}

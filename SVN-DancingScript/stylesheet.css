@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'SVN-DancingScript';
+    src: url('fonts/SVN-DancingScript.eot');
+    src: url('fonts/SVN-DancingScript.eot?#iefix') format('embedded-opentype'),
+        url('fonts/SVN-DancingScript.woff2') format('woff2'),
+        url('fonts/SVN-DancingScript.woff') format('woff'),
+        url('fonts/SVN-DancingScript.ttf') format('truetype'),
+        url('fonts/SVN-DancingScript.svg#SVN-DancingScript') format('svg');
+}

@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'UTMEremitage';
+    src: url('fonts/UTMEremitage.eot');
+    src: url('fonts/UTMEremitage.eot') format('embedded-opentype'),
+         url('fonts/UTMEremitage.woff2') format('woff2'),
+         url('fonts/UTMEremitage.woff') format('woff'),
+         url('fonts/UTMEremitage.ttf') format('truetype'),
+         url('fotns/UTMEremitage.svg#UTMEremitage') format('svg');
+}

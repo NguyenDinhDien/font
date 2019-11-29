@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'UTMColossalis';
+    src: url('fonts/UTMColossalis.eot');
+    src: url('fonts/UTMColossalis.eot') format('embedded-opentype'),
+         url('fonts/UTMColossalis.woff2') format('woff2'),
+         url('fonts/UTMColossalis.woff') format('woff'),
+         url('fonts/UTMColossalis.ttf') format('truetype'),
+         url('fonts/UTMColossalis.svg#UTMColossalis') format('svg');
+}

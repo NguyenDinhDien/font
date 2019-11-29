@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'BeVietnamBold';
+    src: url('fonts/BeVietnam-Bold.eot');
+    src: url('fonts/BeVietnam-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BeVietnam-Bold.woff2') format('woff2'),
+        url('fonts/BeVietnam-Bold.woff') format('woff'),
+        url('fonts/BeVietnam-Bold.ttf') format('truetype'),
+        url('fonts/BeVietnam-Bold.svg#BeVietnam-Bold') format('svg');
+}

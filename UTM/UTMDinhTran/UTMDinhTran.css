@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'UTMDinhTran';
+    src: url('fonts/UTMDinhTran.eot');
+    src: url('fonts/UTMDinhTran.eot') format('embedded-opentype'),
+         url('fonts/UTMDinhTran.woff2') format('woff2'),
+         url('fonts/UTMDinhTran.woff') format('woff'),
+         url('fonts/UTMDinhTran.ttf') format('truetype'),
+         url('fonts/UTMDinhTran.svg#UTMDinhTran') format('svg');
+}

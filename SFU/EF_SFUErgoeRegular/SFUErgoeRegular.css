@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'SFUErgoeRegular';
+    src: url('fonts/SFUErgoeRegular.eot');
+    src: url('fonts/SFUErgoeRegular.eot') format('embedded-opentype'),
+         url('fonts/SFUErgoeRegular.woff2') format('woff2'),
+         url('fonts/SFUErgoeRegular.woff') format('woff'),
+         url('fonts/SFUErgoeRegular.ttf') format('truetype'),
+         url('fonts/SFUErgoeRegular.svg#SFUErgoeRegular') format('svg');
+}

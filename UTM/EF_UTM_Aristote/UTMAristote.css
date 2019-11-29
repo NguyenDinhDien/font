@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'UTMAristote';
+    src: url('fonts/UTMAristote.eot');
+    src: url('fonts/UTMAristote.eot') format('embedded-opentype'),
+         url('fonts/UTMAristote.woff2') format('woff2'),
+         url('fonts/UTMAristote.woff') format('woff'),
+         url('fonts/UTMAristote.ttf') format('truetype'),
+         url('fonts/UTMAristote.svg#UTMAristote') format('svg');
+}

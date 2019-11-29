@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'UTMRockwell';
+    src: url('fonts/UTMRockwell.eot');
+    src: url('fonts/UTMRockwell.eot') format('embedded-opentype'),
+         url('fonts/UTMRockwell.woff2') format('woff2'),
+         url('fonts/UTMRockwell.woff') format('woff'),
+         url('fonts/UTMRockwell.ttf') format('truetype'),
+         url('fonts/UTMRockwell.svg#UTMRockwell') format('svg');
+}

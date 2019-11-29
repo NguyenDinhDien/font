@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'UTMPierre';
+    src: url('fonts/UTMPierre.eot');
+    src: url('fonts/UTMPierre.eot') format('embedded-opentype'),
+         url('fonts/UTMPierre.woff2') format('woff2'),
+         url('fonts/UTMPierre.woff') format('woff'),
+         url('fonts/UTMPierre.ttf') format('truetype'),
+         url('fonts/UTMPierre.svg#UTMPierre') format('svg');
+}

@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'UTMHanzel';
+    src: url('fonts/UTMHanzel.eot');
+    src: url('fonts/UTMHanzel.eot') format('embedded-opentype'),
+         url('fonts/UTMHanzel.woff2') format('woff2'),
+         url('fonts/UTMHanzel.woff') format('woff'),
+         url('fonts/UTMHanzel.ttf') format('truetype'),
+         url('fotns/UTMHanzel.svg#UTMHanzel') format('svg');
+}

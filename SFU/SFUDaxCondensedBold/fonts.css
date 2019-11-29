@@ -1,0 +1,7 @@
+﻿@font-face {
+    font-family: 'SFUDaxCondensedBold';
+    src: url('fonts/SFUDaxCondensedBold.eot');
+    src: url('fonts/SFUDaxCondensedBold.woff') format('woff'), 
+    url('fonts/SFUDaxCondensedBold.ttf') format('truetype'), 
+    url('fonts/SFUDaxCondensedBold.svg') format('svg');
+}

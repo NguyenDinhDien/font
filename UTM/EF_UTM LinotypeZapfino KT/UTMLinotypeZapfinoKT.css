@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'UTMLinotypeZapfinoKT';
+    src: url('fonts/UTMLinotypeZapfinoKT.eot');
+    src: url('fonts/UTMLinotypeZapfinoKT.eot') format('embedded-opentype'),
+         url('fonts/UTMLinotypeZapfinoKT.woff2') format('woff2'),
+         url('fonts/UTMLinotypeZapfinoKT.woff') format('woff'),
+         url('fonts/UTMLinotypeZapfinoKT.ttf') format('truetype'),
+         url('fonts/UTMLinotypeZapfinoKT.svg#UTMLinotypeZapfinoKT') format('svg');
+}

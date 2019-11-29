@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'SFUGrenobleMedium';
+    src: url('fonts/SFUGrenobleMedium.eot');
+    src: url('fonts/SFUGrenobleMedium.eot') format('embedded-opentype'),
+         url('fonts/SFUGrenobleMedium.woff2') format('woff2'),
+         url('fonts/SFUGrenobleMedium.woff') format('woff'),
+         url('fonts/SFUGrenobleMedium.ttf') format('truetype'),
+         url('fonts/SFUGrenobleMedium.svg#SFUGrenobleMedium') format('svg');
+}

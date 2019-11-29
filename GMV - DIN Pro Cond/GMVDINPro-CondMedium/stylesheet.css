@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'GMVDINProCond';
+    src: url('fonts/GMVDINPro-CondMedium.eot');
+    src: url('fonts/GMVDINPro-CondMedium.eot?#iefix') format('embedded-opentype'),
+        url('fonts/GMVDINPro-CondMedium.woff2') format('woff2'),
+        url('fonts/GMVDINPro-CondMedium.woff') format('woff'),
+        url('fonts/GMVDINPro-CondMedium.ttf') format('truetype'),
+        url('fonts/GMVDINPro-CondMedium.svg#GMVDINPro-CondMedium') format('svg');
+}

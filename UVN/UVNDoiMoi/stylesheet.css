@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'UVNDoiMoi';
+    src: url('fonts/UVNDoiMoi.eot');
+    src: url('fonts/UVNDoiMoi.eot?#iefix') format('embedded-opentype'),
+        url('fonts/UVNDoiMoi.woff2') format('woff2'),
+        url('fonts/UVNDoiMoi.woff') format('woff'),
+        url('fonts/UVNDoiMoi.ttf') format('truetype'),
+        url('fonts/UVNDoiMoi.svg#UVNDoiMoi') format('svg');
+}

@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'UTMNetmucKT';
+    src: url('fonts/UTMNetmucKT.eot');
+    src: url('fonts/UTMNetmucKT.eot') format('embedded-opentype'),
+         url('fonts/UTMNetmucKT.woff2') format('woff2'),
+         url('fonts/UTMNetmucKT.woff') format('woff'),
+         url('fonts/UTMNetmucKT.ttf') format('truetype'),
+         url('fonts/UTMNetmucKT.svg#UTMNetmucKT') format('svg');
+}

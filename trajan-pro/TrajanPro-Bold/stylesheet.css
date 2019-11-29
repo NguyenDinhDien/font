@@ -1,0 +1,10 @@
+@font-face {
+    font-display:block;
+    font-family: 'TrajanProBold';
+    src: url('fonts/TrajanPro-Bold.eot');
+    src: url('fonts/TrajanPro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/TrajanPro-Bold.woff2') format('woff2'),
+        url('fonts/TrajanPro-Bold.woff') format('woff'),
+        url('fonts/TrajanPro-Bold.ttf') format('truetype'),
+        url('fonts/TrajanPro-Bold.svg#TrajanPro-Bold') format('svg');
+}

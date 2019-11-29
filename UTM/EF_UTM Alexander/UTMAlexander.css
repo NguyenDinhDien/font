@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'UTMAlexander';
+    src: url('fonts/UTMAlexander.eot');
+    src: url('fonts/UTMAlexander.eot') format('embedded-opentype'),
+         url('fonts/UTMAlexander.woff2') format('woff2'),
+         url('fonts/UTMAlexander.woff') format('woff'),
+         url('fonts/UTMAlexander.ttf') format('truetype'),
+         url('fonts/UTMAlexander.svg#UTMAlexander') format('svg');
+}

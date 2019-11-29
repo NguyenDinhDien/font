@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'UTMCooperBlack';
+    src: url('fonts/UTMCooperBlack.eot');
+    src: url('fonts/UTMCooperBlack.eot') format('embedded-opentype'),
+         url('fonts/UTMCooperBlack.woff2') format('woff2'),
+         url('fonts/UTMCooperBlack.woff') format('woff'),
+         url('fonts/UTMCooperBlack.ttf') format('truetype'),
+         url('fonts/UTMCooperBlack.svg#UTMCooperBlack') format('svg');
+}

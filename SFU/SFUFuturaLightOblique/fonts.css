@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'SFUFuturaLightOblique';
+    src: url('fonts/SFUFuturaLightOblique.eot');
+    src: url('fonts/SFUFuturaLightOblique.eot?#iefix') format('embedded-opentype'),
+        url('fonts/SFUFuturaLightOblique.woff2') format('woff2'),
+        url('fonts/SFUFuturaLightOblique.woff') format('woff'),
+        url('fonts/SFUFuturaLightOblique.ttf') format('truetype'),
+        url('fonts/SFUFuturaLightOblique.svg#SFUFuturaLightOblique') format('svg');
+}
+
+

@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'UTMBitsumishiPro';
+    src: url('fonts/UTMBitsumishiPro.eot');
+    src: url('fonts/UTMBitsumishiPro.eot') format('embedded-opentype'),
+         url('fonts/UTMBitsumishiPro.woff2') format('woff2'),
+         url('fonts/UTMBitsumishiPro.woff') format('woff'),
+         url('fonts/UTMBitsumishiPro.ttf') format('truetype'),
+         url('fonts/UTMBitsumishiPro.svg#UTMBitsumishiPro') format('svg');
+}

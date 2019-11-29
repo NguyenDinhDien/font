@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'UTMFacebookBK_T';
+    src: url('fonts/UTMFacebookBK_T.eot');
+    src: url('fonts/UTMFacebookBK_T.eot') format('embedded-opentype'),
+         url('fonts/UTMFacebookBK_T.woff2') format('woff2'),
+         url('fonts/UTMFacebookBK_T.woff') format('woff'),
+         url('fonts/UTMFacebookBK_T.ttf') format('truetype'),
+         url('fonts/UTMFacebookBK_T.svg#UTMFacebookBK_T') format('svg');
+}

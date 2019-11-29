@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'BarlowSemiCondensed';
+    src: url('fonts/BarlowSemiCondensed-Regular.eot');
+    src: url('fonts/BarlowSemiCondensed-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BarlowSemiCondensed-Regular.woff2') format('woff2'),
+        url('fonts/BarlowSemiCondensed-Regular.woff') format('woff'),
+        url('fonts/BarlowSemiCondensed-Regular.ttf') format('truetype'),
+        url('fonts/BarlowSemiCondensed-Regular.svg#BarlowSemiCondensed-Regular') format('svg');
+}
